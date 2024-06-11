@@ -20,7 +20,7 @@ RSA is the most famous and widely used public key cryptosystem. But as it requir
 
 ### Features
 1.	**Hybrid Encryption:** Combines the strengths of ECDH and AES-256 to provide a secure communication channel.
-2	**Key Exchange:** Utilizes ECDH for secure key exchange, ensuring that encryption keys are exchanged securely between devices.
+2	  **Key Exchange:** Utilizes ECDH for secure key exchange, ensuring that encryption keys are exchanged securely between devices.
 3.	**Strong Data Encryption:** Implements AES-256 to encrypt data, offering high-level security and protection against attacks.
 4.	**Lightweight and Efficient:** Designed to be lightweight and efficient, making it suitable for resource-constrained IoT devices.
 5.	**Real-Time Security:** Provides real-time data encryption and decryption, ensuring that data is protected during transmission.
