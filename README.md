@@ -1,6 +1,6 @@
 # Securing-data-communication-for-IOT-using-hybrid-Encryption-of-ECDH-and-AES-256
 
-**Overview**
+## Overview
 Securing Data Communication for IoT Using Hybrid Encryption of ECDH and AES-256 is a sophisticated project aimed at enhancing the security of Internet of Things (IoT) data transmissions. By integrating Elliptic Curve Diffie-Hellman (ECDH) for secure key exchange and AES-256 for robust data encryption, this project provides a powerful hybrid encryption mechanism. This approach ensures that IoT devices can communicate securely, protecting sensitive data from interception and tampering.
 
 **Problem Statement:**
